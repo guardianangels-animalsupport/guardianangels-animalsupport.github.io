@@ -44,9 +44,6 @@ jobs:
       - name: Build Hugo page
         run: hugo --minify
 
-      - name: Copy custom domain entry
-        run: cp CNAME public/CNAME
-
       - name: Deploy to branch
         uses: peaceiris/actions-gh-pages@v3
         with:
