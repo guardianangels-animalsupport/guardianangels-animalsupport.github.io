@@ -4,6 +4,8 @@ description: "Smudge (B) & Macky (B&W), age about 15 months"
 date: 2021-07-01
 ---
 
+{{< slider dir="cats/smudge-macky" orientation="landscape">}}
+
 **AGE**: ~15 months
 
 Hi I’m Smudge (B) and my brother is called Macky (B&W).
