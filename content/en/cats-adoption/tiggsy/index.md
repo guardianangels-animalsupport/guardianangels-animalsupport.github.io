@@ -1,12 +1,12 @@
 ---
 title: "Tiggsy"
 date: 2021-06-01
-description: "Tiggsy, about 2 years old"
+description: "Tiggsy, about 3 years old"
 ---
 
-**AGE**: ~ 2 years
+**AGE**: ~ 3 years
 
-Meet Tiggsy.
+Meet Tiggsy2.
 
 I was a stray and have been in my foster home for around 3 months. I'm getting more confident and playful by the day.
 
