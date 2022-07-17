@@ -3,6 +3,7 @@ title: "Tiggsy"
 date: 2021-06-01
 description: "Tiggsy, about 3 years old"
 ---
+{{< slider dir="cats/tiggsy" orientation="landscape">}}
 
 **AGE**: ~ 3 years
 
